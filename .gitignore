@@ -11,3 +11,7 @@ desktop.ini
 
 # Log files
 *.log
+
+# Backup / source archives
+portfolio-complete.zip
+portfolio-complete/
